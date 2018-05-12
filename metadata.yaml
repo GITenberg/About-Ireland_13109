@@ -1,0 +1,35 @@
+_repo: About-Ireland_13109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linton, E. Lynn (Elizabeth Lynn)
+    aliases:
+    - Linton, Elizabeth Lynn
+    - Linton, Mrs. Lynn
+    - Linton, Lynn
+    - Lynn, Eliza
+    - Linton, Eliza Lynn
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '4835'
+    url: http://www.gutenberg.org/2009/agents/4835
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lynn_Linton
+description: ''
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Social conditions'
+- !lcsh 'Irish question'
+- !lcsh 'Home rule -- Ireland'
+- !lcc 'DA'
+title: About Ireland
+url: http://www.gutenberg.org/ebooks/13109
